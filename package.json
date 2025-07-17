@@ -1,0 +1,14 @@
+
+{
+  "name": "line-household-bot",
+  "version": "1.0.0",
+  "description": "A LINE bot for managing household expenses",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
